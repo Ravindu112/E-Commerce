@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className="container px-4 mx-auto">
       <nav className="flex items-center justify-center py-4 navbar ">
-        <a href="/" className="text-2xl font-bold ">F-Mart</a>
+        <a href="/" className="text-2xl font-bold ">S-Mart</a>
         <ul className="flex justify-center gap-8 p-4 rounded-lg">
           <li>  <div class="relative">
     <input
